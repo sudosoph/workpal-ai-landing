@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="38.9623848%" y1="50%" x2="91.5331913%" y2="78.6334511%" id="linearGradient-1">
+            <stop stop-color="#1737B4" offset="0%"></stop>
+            <stop stop-color="#2B83D2" offset="52.6625875%"></stop>
+            <stop stop-color="#40D0F1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing-Page---Workpal-Red" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing" transform="translate(-301.000000, -39.000000)">
+            <g id="Logo" transform="translate(301.000000, 39.000000)">
+                <g id="Group-2">
+                    <g id="Logo">
+                        <circle id="Oval-Copy-24" fill="url(#linearGradient-1)" cx="30" cy="30" r="30"></circle>
+                        <path d="M25.65,39.75 C27.2045268,35.6541208 28.3260044,32.8443836 29.014433,31.3207883 C31.2648575,26.3402628 33.0933798,23.85 34.5,23.85 C36.5520701,23.85 39.5020701,29.15 43.35,39.75" id="Line-Copy-9" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" transform="translate(34.500000, 31.800000) scale(-1, 1) rotate(180.000000) translate(-34.500000, -31.800000) "></path>
+                        <path d="M16.8,39.75 C18.3545268,35.6541208 19.4760044,32.8443836 20.164433,31.3207883 C22.4148575,26.3402628 24.2433798,23.85 25.65,23.85 C27.7020701,23.85 30.6520701,29.15 34.5,39.75" id="Line-Copy-8" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" transform="translate(25.650000, 31.800000) scale(-1, 1) rotate(180.000000) translate(-25.650000, -31.800000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

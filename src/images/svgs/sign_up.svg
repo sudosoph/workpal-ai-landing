@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="310px" height="102px" viewBox="0 0 310 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Beta Button</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="7.90029626%" y1="45.8229968%" x2="104.73602%" y2="53.7934266%" id="linearGradient-1">
+            <stop stop-color="#4960F9" offset="0%"></stop>
+            <stop stop-color="#1433FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M32.8098249,-8.835505e-16 L247.190175,8.835505e-16 C255.969956,-7.29269082e-16 261.112877,1.29955856 265.67584,3.73985785 C270.238803,6.18015715 273.819843,9.76119719 276.260142,14.3241602 C278.700441,18.8871231 280,24.030044 280,32.8098249 L280,39.1901751 C280,47.969956 278.700441,53.1128769 276.260142,57.6758398 C273.819843,62.2388028 270.238803,65.8198429 265.67584,68.2601421 C261.112877,70.7004414 255.969956,72 247.190175,72 L32.8098249,72 C24.030044,72 18.8871231,70.7004414 14.3241602,68.2601421 C9.76119719,65.8198429 6.18015715,62.2388028 3.73985785,57.6758398 C1.29955856,53.1128769 4.86179388e-16,47.969956 -5.89033667e-16,39.1901751 L5.89033667e-16,32.8098249 C-4.86179388e-16,24.030044 1.29955856,18.8871231 3.73985785,14.3241602 C6.18015715,9.76119719 9.76119719,6.18015715 14.3241602,3.73985785 C18.8871231,1.29955856 24.030044,7.29269082e-16 32.8098249,-8.835505e-16 Z" id="path-2"></path>
+        <filter x="-9.5%" y="-25.7%" width="118.9%" height="173.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.105882353   0 0 0 0 0.223529412   0 0 0 0 1  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="-2.94928527%" y1="125.373693%" x2="83.0475622%" y2="27.021297%" id="linearGradient-5">
+            <stop stop-color="#5264F9" offset="0%"></stop>
+            <stop stop-color="#3AF9EF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="1.23909447%" y1="-33.542567%" x2="86.8054669%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#F83030" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#C72FF8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing-Page---Workpal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing" transform="translate(-286.000000, -636.000000)">
+            <path d="M14.8593293,633 L78.2343679,633 C135.891006,633 161.378211,639.904124 185.619721,652.868625 C209.86123,665.833126 228.886109,684.858004 241.85061,709.099514 C254.815111,733.341023 261.719235,758.828228 261.719235,816.484867 L261.719235,950.428253 C261.719235,996.654905 224.245129,1034.12901 178.018477,1034.12901 C169.854347,1034.12901 161.734138,1032.93456 153.915826,1030.5836 L100.483173,1014.51644 C77.4303985,1007.58449 69.3689226,1005.92273 60.0901472,1005.07562 C50.8113718,1004.22851 42.1971561,1004.76193 33.0937753,1006.7473 C23.9903944,1008.73268 16.195518,1011.3763 -5.82593699,1021.09936 L-61.9437916,1045.87689 C-100.671908,1062.97639 -145.92913,1045.44293 -163.028627,1006.71481 C-167.37419,996.872682 -169.599254,986.226015 -169.559095,975.467307 L-168.964369,816.138819 C-168.748487,758.303496 -161.787199,732.944022 -148.790542,708.784788 C-135.793884,684.625554 -116.776834,665.679357 -92.5692562,652.772968 C-68.3616778,639.86658 -42.9763963,633 14.8593293,633 Z" id="Blob" fill="#2026A2" transform="translate(45.859617, 863.293295) rotate(-49.000000) translate(-45.859617, -863.293295) "></path>
+            <g id="Beta-Button" transform="translate(301.000000, 643.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <ellipse id="Oval-Copy-3" fill="url(#linearGradient-5)" mask="url(#mask-3)" transform="translate(24.888889, -36.000000) rotate(-150.000000) translate(-24.888889, 36.000000) " cx="24.8888889" cy="-36" rx="66.0924907" ry="70.0872297"></ellipse>
+                <ellipse id="Oval" fill="url(#linearGradient-6)" mask="url(#mask-3)" transform="translate(248.888889, 110.000000) rotate(-195.000000) translate(-248.888889, -110.000000) " cx="248.888889" cy="110" rx="64.5674887" ry="71.4926367"></ellipse>
+                <g id="Oval" mask="url(#mask-3)">
+                    <g transform="translate(168.000000, 24.000000)"></g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

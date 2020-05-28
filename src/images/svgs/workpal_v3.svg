@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="178px" height="68px" viewBox="0 0 178 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1920" height="964"></rect>
+        <filter x="-0.4%" y="-0.5%" width="100.7%" height="101.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-20.0%" y="-20.0%" width="140.0%" height="140.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <circle id="path-5" cx="30" cy="30" r="30"></circle>
+        <linearGradient x1="93.1435385%" y1="28.5140436%" x2="22.3971249%" y2="68.1361256%" id="linearGradient-7">
+            <stop stop-color="#A532D3" offset="0%"></stop>
+            <stop stop-color="#40D0F1" offset="59.3821837%"></stop>
+            <stop stop-color="#2848FC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="93.101606%" y1="28.5382109%" x2="29.1988735%" y2="65.9434994%" id="linearGradient-8">
+            <stop stop-color="#EF4546" offset="0.0211148649%"></stop>
+            <stop stop-color="#194CFA" offset="43.79869%"></stop>
+            <stop stop-color="#2848FC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing-Page---Workpal-v3-White" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing" transform="translate(-297.000000, -43.000000)">
+            <g id="Mockups" transform="translate(0.000000, -4.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+            <g id="Logo" transform="translate(301.000000, 45.000000)">
+                <g id="Group-5">
+                    <g id="Group-4">
+                        <g id="Oval-Copy-36" filter="url(#filter-4)">
+                            <g id="Oval-Copy-36-+-Oval-Copy-37-Mask">
+                                <mask id="mask-6" fill="white">
+                                    <use xlink:href="#path-5"></use>
+                                </mask>
+                                <use id="Mask" fill="#000000" xlink:href="#path-5"></use>
+                                <circle id="Oval-Copy-38" fill="url(#linearGradient-7)" mask="url(#mask-6)" cx="50.6086957" cy="2.71304348" r="15.6521739"></circle>
+                                <circle id="Oval-Copy-39" fill="url(#linearGradient-8)" mask="url(#mask-6)" cx="8.34782609" cy="56.6608696" r="15.6521739"></circle>
+                            </g>
+                        </g>
+                        <text id="Workpal-Copy" font-family="SFProDisplay-Semibold, SF Pro Display" font-size="30" font-weight="500" fill="#000000">
+                            <tspan x="64" y="41">Workpal</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-11-Copy-5" transform="translate(17.947826, 23.478261)" stroke="#FFFFFF" stroke-linecap="round" stroke-width="4.07113043">
+                        <path d="M7.96132174,14.3846609 C9.36769534,10.6791368 10.3822913,8.13717973 11.0051096,6.75878972 C13.0410589,2.25292991 14.6953151,0 15.9678783,0 C17.8243771,0 20.4932293,4.79488696 23.9744348,14.3846609" id="Line-Copy-11" transform="translate(15.967878, 7.192330) scale(-1, 1) rotate(180.000000) translate(-15.967878, -7.192330) "></path>
+                        <path d="M0,14.3846609 C1.4063736,10.6791368 2.42096957,8.13717973 3.04378791,6.75878972 C5.07973717,2.25292991 6.73399337,0 8.00655652,0 C9.86305539,0 12.5319076,4.79488696 16.013113,14.3846609" id="Line-Copy-10" transform="translate(8.006557, 7.192330) scale(-1, 1) rotate(180.000000) translate(-8.006557, -7.192330) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

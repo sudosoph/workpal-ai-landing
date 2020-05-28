@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="119px" height="103px" viewBox="0 0 119 103" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1920" height="964"></rect>
+        <filter x="-0.4%" y="-0.5%" width="100.7%" height="101.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M0,0 L55.9969227,9.19050389e-16 C65.0086065,-7.3636906e-16 70.1128769,1.29955856 74.6758398,3.73985785 C79.2388028,6.18015715 82.8198429,9.76119719 85.2601421,14.3241602 C87.7004414,18.8871231 89,23.9913935 89,33.0030773 L89,39.9969227 C89,49.0086065 87.7004414,54.1128769 85.2601421,58.6758398 C82.8198429,63.2388028 79.2388028,66.8198429 74.6758398,69.2601421 C70.1128769,71.7004414 65.0086065,73 55.9969227,73 L48.6495789,73 L48.6495789,73 L0,73 L0,0 Z" id="path-4"></path>
+        <filter x="-19.7%" y="-24.0%" width="161.8%" height="175.3%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="10" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.105882353   0 0 0 0 0.223529412   0 0 0 0 1  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="93.1435385%" y1="33.038314%" x2="22.3971249%" y2="64.3172248%" id="linearGradient-7">
+            <stop stop-color="#A532D3" offset="0%"></stop>
+            <stop stop-color="#40D0F1" offset="59.3821837%"></stop>
+            <stop stop-color="#2848FC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="99.8727176%" y1="40.7861586%" x2="7.68670997%" y2="86.852433%" id="linearGradient-8">
+            <stop stop-color="#EF4546" offset="0.0211148649%"></stop>
+            <stop stop-color="#194CFA" offset="40.4029934%"></stop>
+            <stop stop-color="#2848FC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing-Page---Workpal-v3-White" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing" transform="translate(-749.000000, -611.000000)">
+            <g id="Mockups" transform="translate(0.000000, -4.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+            <g id="Email-Signup" transform="translate(301.000000, 607.000000)">
+                <g id="Group-4" transform="translate(453.000000, 9.000000)">
+                    <g id="Group-3">
+                        <g id="Beta-Button-Copy">
+                            <mask id="mask-5" fill="white">
+                                <use xlink:href="#path-4"></use>
+                            </mask>
+                            <g id="Mask-Copy-3">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-4"></use>
+                                <use fill="#192534" fill-rule="evenodd" xlink:href="#path-4"></use>
+                            </g>
+                            <ellipse id="Oval-Copy-40" fill="url(#linearGradient-7)" mask="url(#mask-5)" transform="translate(73.964969, 72.959593) rotate(64.000000) translate(-73.964969, -72.959593) " cx="73.9649692" cy="72.9595932" rx="19.3742555" ry="17.2140154"></ellipse>
+                            <ellipse id="Oval-Copy-41" fill="url(#linearGradient-8)" mask="url(#mask-5)" transform="translate(7.756320, -0.029828) rotate(53.000000) translate(-7.756320, 0.029828) " cx="7.75632003" cy="-0.0298284423" rx="21.1532371" ry="20.0667062"></ellipse>
+                        </g>
+                    </g>
+                    <g id="next" transform="translate(29.000000, 24.000000)" fill="#FFFFFF">
+                        <path d="M29.0161286,11.8948228 L18.5237776,1.2156439 C18.2242661,0.910806122 17.8250749,0.743481918 17.3994285,0.743481918 C16.9733096,0.743481918 16.5743546,0.911046531 16.2748431,1.2156439 L15.322217,2.18545114 C15.0229417,2.4898081 14.8580686,2.8963386 14.8580686,3.32979484 C14.8580686,3.76301067 15.0229417,4.18324445 15.322217,4.48760141 L21.4433062,10.7312464 L1.99631705,10.7312464 C1.11951365,10.7312464 0.426716141,11.429873 0.426716141,12.3225092 L0.426716141,13.693558 C0.426716141,14.5861941 1.11951365,15.3552604 1.99631705,15.3552604 L21.5127513,15.3552604 L15.3224532,21.6337646 C15.0231779,21.9386024 14.8583048,22.3340741 14.8583048,22.7675304 C14.8583048,23.2005058 15.0231779,23.6017473 15.3224532,23.9063447 L16.2750793,24.8730266 C16.5745908,25.1778644 16.9735458,25.3439865 17.3996647,25.3439865 C17.8253111,25.3439865 18.2245023,25.1757007 18.5240138,24.8708629 L29.0163648,14.1919245 C29.316585,13.8861251 29.4816942,13.4779117 29.4805195,13.0439746 C29.481458,12.6085951 29.316585,12.2001414 29.0161286,11.8948228 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="53px" height="43px" viewBox="0 0 53 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group 2 Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI---Template-12" transform="translate(-209.000000, -38.000000)" fill-rule="nonzero">
+            <g id="Group-2-Copy-2" transform="translate(209.000000, 38.000000)">
+                <path d="M26.781425,26.68605 C36.721925,26.68605 44.781425,19.0332 44.781425,9.5931 C44.781425,0.15285 36.721925,-7.5 26.781425,-7.5 L26.781425,26.68605 Z" id="Path" fill="#19A1FB" transform="translate(35.781425, 9.593025) rotate(-90.000000) translate(-35.781425, -9.593025) "></path>
+                <path d="M26.467475,16.5 C16.526975,16.5 8.467475,24.15285 8.467475,33.59295 C8.467475,43.0332 16.526975,50.68605 26.467475,50.68605 L26.467475,16.5 Z" id="Path" fill="#FD7162" transform="translate(17.467475, 33.593025) rotate(-90.000000) translate(-17.467475, -33.593025) "></path>
+                <ellipse id="Oval" fill="#BF95F7" transform="translate(45.548900, 31.793025) rotate(-90.000000) translate(-45.548900, -31.793025) " cx="45.5489" cy="31.793025" rx="7.2" ry="7.32558"></ellipse>
+                <path d="M7.7,18.718575 C11.6765,18.718575 14.9,15.438825 14.9,11.393025 L14.9,4.067475 L7.7,4.067475 C3.7235,4.067475 0.5,7.347225 0.5,11.393025 C0.5,15.438825 3.7235,18.718575 7.7,18.718575 Z" id="Path" fill="#3CC28F" transform="translate(7.700000, 11.393025) rotate(-90.000000) translate(-7.700000, -11.393025) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
