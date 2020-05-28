@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Hermes`,
-    description: `Hermes is a friendly SMS-based assistant to engage and encourage NYC health workers and MTA workers with nudges, self-reporting of COVID symptoms, and form new COVID-safe behaviors.`,
+    title: `Workpal`,
+    description: `Workpal is an AI assistant to help busy professionals materialize their goals by managing their time and health.`,
     author: `kevincwu`,
   },
   plugins: [
@@ -18,13 +18,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Hermes`,
-        short_name: `Hermes`,
+        name: `Workpal`,
+        short_name: `Workpal`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/hermes/hermes_logo.png`, // This path is relative to the root of the site.
+        icon: `src/images/workpal_logo.png`, // This path is relative to the root of the site.
       },
     },
     {

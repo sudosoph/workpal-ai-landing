@@ -55,7 +55,7 @@ export default class HeroPage extends React.Component {
         }
         return (
             <div className="Hero">
-              <SEO title="Home" />
+              <SEO title="Workpal" />
               <div className="HeroGroup">
                 <div className="mobile-image" />
                 <div className="info">
