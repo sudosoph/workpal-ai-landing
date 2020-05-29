@@ -60,7 +60,7 @@ export default class HeroPage extends React.Component {
                 <div className="mobile-image" />
                 <div className="info">
                   <h1>
-                    Work toward what<br /> really matters.
+                    Work towards what<br /> really matters.
                   </h1>
                   <p className="info-subtext">
                   Workpal is an AI assistant to help busy professionals materialize their goals by managing their time and health. 
