@@ -12,14 +12,6 @@ html, body, #___gatsby {
   font-size: 16px;
 }
 
-main {
-  margin: 2rem;
-  background: green;
-  height: 100%;
-  padding: 1.5rem;
-  border-radius: 1rem;
-}
-
 a {
   color: #5334F5;
   font-weight: 600;
@@ -50,6 +42,7 @@ a {
 }
 
 .container-hero {
+  grid-template-columns: 1fr 1fr 40px 20%;
   height: 100%;
   width: 100%;
   min-height: 800px;
@@ -69,37 +62,17 @@ a {
 }
 
 .HeroGroup {
-  background: red;
   width: 100%;
   height: auto;
   text-align: left;
   align-items: center;
 }
 
-.image {
-  align-items: left;
-  text-align: left;
-  align-items: left;
-  justify-items: left;
-}
-
 .animation {
-  background: red;
-}
-
-svg {
-  background:white;
-  align-items: right;
-}
-
-.mobile-image {
-  background: blue;
-  display: none;
 }
 
 .info {
   float:left;
-  background: yellow;
   text-align: left;
   align-items: center;
   margin-top: 80px;
@@ -147,42 +120,28 @@ input:focus {
   outline:none !important;
 }
 
+.not_submitted {
+  width: 130px;
+  background: url('../images/hermes/hermes_text_me.png');
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  background-size: cover;
+  background-position: center;
+  margin-top: 15px;
+  padding: 0;
+  float: left;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  align-items: center;
+  justify-items: center;
+  animation: HeroAnimationVertical 5s 0.5s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
 .Hero span {
   font-size: 18px;
   line-height: 1.5;
   color: white;
-}
-
-.section-work {
-  font-size: 30px;
-  color: #22336E;
-  text-align: center;
-}
-
-.Section-Features {
-
-}
-
-.section-info {
-  
-}
-
-.FeatureGroup {
-  background: orange;
-  text-align: left;
-  align-items: center;
-  justify-items: center;
-}
-
-.SectionGroup {
-  background: red;
-  text-align: left;
-  align-items: center;
-  justify-items: center;
-}
-
-.screenshot {
-  width: 30%;
 }
 
 .get_started {

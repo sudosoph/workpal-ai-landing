@@ -13,8 +13,8 @@ export default class WorkingIcon2 extends React.Component {
      className: "animation"
     }
    }}
-   height={540}
-   width={960}
+   height={270}
+   width={480}
    />
   );
  }
