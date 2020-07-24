@@ -23,7 +23,6 @@ export default class IndexPage extends React.Component {
         <Layout>
           <HeroPage />
         </Layout>
-          <HermesCTA />
         <Footer/>
       </div>
     );
